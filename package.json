@@ -9,6 +9,7 @@
   ],
   "author": "maxwellium",
   "license": "MIT",
+  "repository": "github:maxwellium/pbkdf2-helper",
   "keywords": [
     "pbkdf2",
     "password hashing",
