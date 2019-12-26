@@ -7,6 +7,7 @@
   "files": [
     "build/src"
   ],
+  "type": "module",
   "author": "maxwellium",
   "license": "MIT",
   "repository": "github:maxwellium/pbkdf2-helper",
@@ -20,7 +21,7 @@
     "compile": "tsc -p ."
   },
   "devDependencies": {
-    "@types/node": "^11.11.6",
-    "typescript": "~3.1.0"
+    "@types/node": "^13.1.0",
+    "typescript": "^3.7.4"
   }
 }

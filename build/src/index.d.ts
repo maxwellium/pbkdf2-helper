@@ -1,3 +1,4 @@
+/// <reference types="node" />
 export declare const DEFAULTS: {
     /** in (bytes) */
     SALT_SIZE: number;
