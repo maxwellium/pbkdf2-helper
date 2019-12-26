@@ -1,6 +1,6 @@
 {
   "name": "pbkdf2-helper",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "promise wrapper for convenient use of native pbkdf2",
   "main": "build/src/index.js",
   "types": "build/src/index.d.ts",
